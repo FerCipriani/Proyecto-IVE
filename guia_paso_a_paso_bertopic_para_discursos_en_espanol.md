@@ -63,6 +63,18 @@ Thumbs.db
 git add .
 git commit -m "Initial commit"
 
+## Crear repo en GitHub desde VS Code
+
+Ve a la barra lateral izquierda → Source Control (ícono de bifurcación)
+Click en "Publish to GitHub"
+Elige:
+
+Public o Private
+Nombre del repositorio
+
+
+VS Code se encarga de todo automáticamente ✅
+
 
 ### Instalación de dependencias
 
