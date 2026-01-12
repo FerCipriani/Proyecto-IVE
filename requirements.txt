@@ -1,0 +1,18 @@
+# Dependencias principales para análisis BERTopic
+bertopic>=0.17.0
+sentence-transformers>=5.0.0
+umap-learn>=0.5.0
+hdbscan>=0.8.0
+scikit-learn>=1.8.0
+pandas>=2.3.0
+
+# Para exportar a Excel
+openpyxl>=3.1.0
+
+# Visualizaciones (opcional)
+plotly>=6.0.0
+
+# Dependencias adicionales
+numpy>=2.0.0
+scipy>=1.17.0
+tqdm>=4.67.0
